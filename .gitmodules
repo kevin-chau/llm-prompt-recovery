@@ -1,0 +1,3 @@
+[submodule "notebooks/gemma_pytorch"]
+	path = notebooks/gemma_pytorch
+	url = https://github.com/google/gemma_pytorch

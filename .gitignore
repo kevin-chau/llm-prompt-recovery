@@ -1,0 +1,13 @@
+/models/gemma-7b-it/gemma-7b-it-quant.ckpt
+/data/ForumMessages.csv.zip
+/data/ForumMessages.csv
+/data/wiki_movie_plots_deduped.csv.zip
+/models/gemma-7b-it/tokenizer.model
+/models/gemma-7b-it/README.md
+/models/
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/llm-prompt-recovery.iml
+/.idea/.gitignore
+/data/wiki_movie_plots_deduped.csv
