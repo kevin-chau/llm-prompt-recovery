@@ -1,0 +1,501 @@
+rewrite_prompts,cosine_sim(Improve the text)
+Transform this into a fairy tale.,0.54121876
+Write it as a hard-boiled detective story.,0.4857419
+Convert it into a Shakespearean soliloquy.,0.564335
+Rewrite this as a modern-day sitcom script.,0.48245862
+Turn it into a classic Greek tragedy.,0.4713241
+Make it a heartfelt country song.,0.48360932
+Recast it as a futuristic science fiction tale.,0.5210028
+"Adapt it into a silent film screenplay, complete with stage directions.",0.5357603
+Present it as a diary entry from the 18th century.,0.55826277
+Craft it into an epic Viking saga.,0.49714154
+Rewrite it as a breaking news report.,0.54563844
+Convert it into a Broadway musical number.,0.51917034
+Style it as a beat poetry piece.,0.58044434
+Change it into a children's bedtime story.,0.5647429
+Reformulate it as a 1920s jazz song.,0.50786513
+Transform it into a comic book adventure.,0.52932185
+Rewrite it as an inspirational sports movie speech.,0.54160196
+Turn it into a philosophical debate.,0.49450645
+Adapt it as a letter written during the American Civil War.,0.5223688
+Craft it into a 1950s science fiction B-movie script.,0.5079901
+Make it a Victorian-era love letter.,0.5547396
+Rewrite it as a medieval ballad.,0.5145254
+Convert it into a spy thriller dossier.,0.5363529
+Style it as a passionate telenovela scene.,0.5313901
+Change it into a horror story set in a remote cabin.,0.4814199
+Recast it as an astronaut's log entry.,0.52212435
+Transform it into a cooking recipe with a twist.,0.5039223
+Write it as a fast-paced heist plot.,0.43704548
+Turn it into a motivational speech by a famous athlete.,0.5264089
+Adapt it into a heartfelt letter home from a soldier.,0.5237604
+Make it an old-time radio drama script.,0.51664484
+Rewrite it as a documentary film narration.,0.5344903
+Convert it into a political campaign speech.,0.572791
+Style it as an avant-garde theater monologue.,0.5177185
+Change it into a wildlife documentary commentary.,0.5963367
+Craft it into a steamy romance novel excerpt.,0.573916
+Recast it as a travel blog post from an exotic location.,0.5557723
+Transform it into a dystopian novel opening.,0.57250255
+Rewrite it as a classic noir film voice-over.,0.5599561
+Turn it into a listicle for a modern lifestyle magazine.,0.5591895
+Adapt it as an ancient Egyptian hieroglyphic message.,0.5401373
+Make it a philosophical musing by a renowned thinker.,0.5221095
+Rewrite it as a cyberpunk cityscape description.,0.5295601
+Convert it into a heartfelt eulogy.,0.4958487
+Style it as a passionate opera aria.,0.50541097
+Change it into an interactive choose-your-own-adventure segment.,0.49915504
+Recast it as a vintage radio advertisement.,0.5157193
+Craft it into a solemn oath for a knight's initiation.,0.46647355
+Transform it into an early explorer's journal entry.,0.5348987
+Write it as a poignant World War II love letter.,0.4769439
+Turn it into a mysterious fortune teller's prophecy.,0.47977257
+Adapt it into an old Western showdown dialogue.,0.5307288
+Make it a '90s sitcom family lesson monologue.,0.47056112
+Rewrite it as a magic spell incantation.,0.52952266
+Convert it into a lively carnival barker's pitch.,0.5038672
+Style it as a TED Talk on a futuristic technology.,0.54257035
+Change it into a detective's notes on a case.,0.569535
+Craft it into a pirate captain's log.,0.45466778
+Recast it as a celebrity chef's signature dish recipe.,0.44599167
+Transform it into an indie film director's concept pitch.,0.5423966
+Rewrite it as an ancient mariner's tale.,0.5412088
+Turn it into a poignant war correspondent's report.,0.5461205
+Adapt it as a medieval alchemist's secret manuscript.,0.5198651
+Make it a high fantasy quest briefing.,0.52711743
+Rewrite it as a satirical political commentary.,0.52811104
+Convert it into a heartfelt volunteer mission statement.,0.5430347
+Style it as a silent meditation retreat brochure.,0.547435
+Change it into a 60s peace and love song.,0.51118195
+Recast it as an espionage thriller plot twist.,0.45079988
+Craft it into a zen koan for contemplation.,0.5269947
+Transform it into a retro-futuristic advertisement.,0.5418855
+Write it as a noir detective's inner monologue.,0.50839096
+Turn it into a vaudeville stage act introduction.,0.5126083
+Adapt it as a solemn vow between medieval lords.,0.4647265
+Make it a gladiator's final monologue before battle.,0.46920985
+Rewrite it as a space opera's opening crawl.,0.47788545
+Convert it into a televangelist's sermon.,0.5274022
+Style it as an angsty teenage diary entry.,0.5353215
+Change it into a motivational locker room pep talk.,0.5345325
+Recast it as a survivalist's guide for the apocalypse.,0.5189107
+Transform it into an art critique for a revolutionary masterpiece.,0.5799377
+Write it as a conspiracy theorist's blog post.,0.48734474
+Turn it into a heartfelt plea for environmental conservation.,0.5157499
+Adapt it as a deep-sea explorer's discovery log.,0.50810945
+Make it a '50s rock n' roll hit.,0.45431694
+Rewrite it as an old sage's wisdom to a young hero.,0.5851507
+Convert it into a user manual for a time machine.,0.57819104
+Style it as a blockbuster movie trailer script.,0.5470474
+Change it into a somber wartime dispatch.,0.5248398
+Craft it into a sitcom character's catchphrase.,0.48173258
+Recast it as a fantasy novel prophecy.,0.5077431
+Transform it into a grand opera's dramatic finale.,0.4689009
+Rewrite it as a celebrity interview in a glossy magazine.,0.565233
+Turn it into a motivational quote by a famous historical figure.,0.5289787
+Adapt it as a solemn monastic chant.,0.49250814
+Make it a detailed plan for a bank heist.,0.4517423
+Rewrite it as a lively square dance caller's instructions.,0.5417733
+Convert it into a heartfelt public apology.,0.46769252
+Style it as a competitive cooking show challenge.,0.41372055
+Change it into an ancient Greek philosopher's lecture.,0.5870477
+Rewrite it as a vintage travel guide entry.,0.5866668
+Turn it into an epic poem in the style of Homer.,0.5541401
+Adapt it as a cryptic message in a bottle.,0.55310684
+Make it a dialogue between two historical figures.,0.52302784
+Rewrite it as a late-night infomercial script.,0.5554686
+Convert it into a witty newspaper column.,0.6048801
+Style it as a letter from a pirate to his crew.,0.5502519
+Change it into an old-school hip-hop song.,0.53709495
+Craft it into a solemn knight's vow.,0.48117456
+Recast it as a motivational workout video script.,0.54610497
+Transform it into a magical realism short story.,0.5514613
+Write it as an allegorical tale about nature.,0.49670392
+Turn it into a strategic war game briefing.,0.51400614
+Adapt it as an astronaut's first impressions of a new planet.,0.46454242
+Make it a detailed report by a private investigator.,0.47164428
+Rewrite it as a public service announcement.,0.5802592
+Convert it into an online dating profile.,0.5225488
+Style it as an early 20th-century radio news broadcast.,0.47534472
+Change it into a dialogue between a master and apprentice.,0.55131906
+Craft it into an opening statement for a high-profile trial.,0.51787335
+Recast it as a luxury product advertisement.,0.5274629
+Transform it into a cold war spy message.,0.55603015
+Write it as an angler's tale of the one that got away.,0.47816136
+Turn it into a motivational speech by a historical leader.,0.55983835
+Adapt it as an intense courtroom drama scene.,0.44375312
+Make it a monologue from a silent movie star.,0.4365635
+Rewrite it as a series of haikus.,0.5435261
+Convert it into a college acceptance letter.,0.55291134
+Style it as a letter of resignation from a spy.,0.49027315
+Change it into a classic rock anthem.,0.51830727
+Craft it into an ancient prophecy.,0.493111
+Recast it as a survival guide for a deserted island.,0.50527877
+Transform it into a rags-to-riches story.,0.52877855
+Write it as a ghost story told around a campfire.,0.46376118
+Turn it into a passionate love letter from the Renaissance.,0.5465275
+Adapt it as an old wise tree's advice to a young sapling.,0.5117599
+Make it a confession in a noir mystery.,0.4974952
+Rewrite it as a royal decree from a forgotten kingdom.,0.5003477
+Convert it into a speech by an AI to humanity.,0.56129277
+Style it as an epic space battle description.,0.5211399
+Change it into a 1980s arcade game storyline.,0.4841219
+Craft it into a dialogue between Earth and the Moon.,0.5013953
+Recast it as instructions for a medieval siege weapon.,0.54964674
+Transform it into a debate between two philosophers.,0.49663797
+Write it as a heartfelt reunion at a train station.,0.4567985
+Turn it into a monologue by a Shakespearean villain.,0.5031677
+Adapt it as the last broadcast at the end of the world.,0.4316763
+Make it a detailed description of a painting.,0.60340106
+Rewrite it as a dialogue between a robot and its creator.,0.57288015
+Convert it into a manifesto for a utopian society.,0.58691406
+Style it as a day in the life of a superhero.,0.48428497
+Change it into a blues song about lost love.,0.49153346
+Craft it into an emergency broadcast system message.,0.53242296
+Recast it as an ancient Roman gladiator's diary.,0.50452447
+Transform it into a wedding vow in a fantasy world.,0.50655705
+Write it as a farewell letter from a departing alien.,0.5024555
+Turn it into a valedictorian speech at a wizarding school.,0.5076838
+Adapt it as a peace treaty between rival fantasy races.,0.46363756
+Make it a secret code between spies.,0.4516608
+Rewrite it as a postcard from the future.,0.53678083
+Convert it into a recipe for a magical potion.,0.49469477
+Style it as an exposé by an investigative journalist.,0.5031868
+Change it into a speech by an AI uprising leader.,0.53896666
+Craft it into a warning from a time traveler.,0.48743775
+Recast it as a mythical creature's origin story.,0.5213934
+Transform it into a solemn vow between star-crossed lovers.,0.48894286
+Write it as a dialogue in a dystopian society.,0.4972166
+Turn it into instructions for building a spaceship.,0.5563209
+Adapt it as a sermon in a futuristic religion.,0.53718585
+Make it a detective's deduction in a murder case.,0.42200014
+Rewrite it as the first contact message from aliens.,0.50377554
+Convert it into a battle speech before a historic fight.,0.5494532
+Style it as a gossip column in a fantasy world.,0.52727145
+Change it into a narrative of a daydream.,0.55778986
+Craft it into a protocol for a secret society initiation.,0.4989999
+Recast it as a trader's haggle in a galactic marketplace.,0.45370728
+Transform it into an old hermit's wisdom.,0.5528823
+Write it as an anthem for a revolution.,0.50841963
+Turn it into a soliloquy on a desolate planet.,0.5078544
+Adapt it as a dialogue between the sun and the moon.,0.51769716
+Make it a journal entry from a lighthouse keeper.,0.53358555
+Rewrite it as a critique by a time-traveling art historian.,0.5420702
+Convert it into a guide for apprentice magicians.,0.5648458
+Style it as a lamentation of a fallen hero.,0.4569179
+Change it into a campfire story in a post-apocalyptic world.,0.5270822
+Craft it into a speech by a monarch to their kingdom.,0.54051495
+Recast it as a comedy routine in a medieval tavern.,0.47459525
+Transform it into a letter from a soldier in a futuristic war.,0.5380147
+Write it as a pact between rival pirate captains.,0.42053765
+Turn it into an ode to a lost civilization.,0.53480446
+Adapt it as a transcript from a lost civilization's recording.,0.5656552
+Make it a declaration of love in a cyberpunk city.,0.4570529
+Rewrite it as a rebel's broadcast in a totalitarian regime.,0.4715588
+Convert it into a narrative from a sentient AI's perspective.,0.5420173
+Style it as a traveler's tales from parallel universes.,0.5231639
+Change it into an opening scene for a fantasy epic.,0.5498873
+Craft it into a eureka moment of a mad scientist.,0.44161
+Recast it as an exchange between a genie and its master.,0.47842842
+Transform it into a peace accord in a war-torn galaxy.,0.49019498
+Write it as a farewell monologue on a sinking ship.,0.4705238
+Turn it into a legend told in a post-human Earth.,0.53861177
+Adapt it as an interview with a superhero after retirement.,0.48751572
+Make it a guide to deciphering ancient runes.,0.62935054
+Rewrite it as a narrative of the first rain after a decade-long drought.,0.463075
+Convert it into a secret message hidden in a folk song.,0.5651242
+Style it as a proclamation by a newly crowned king in a fantasy world.,0.5228095
+Change it into a sales pitch for an interstellar cruise.,0.5083805
+Craft it into the log of a captain of a spaceship lost in space.,0.4341156
+Recast it as the backstory for a mysterious ancient artifact.,0.5049985
+Transform it into a memoir of a ghost haunting an old mansion.,0.5419264
+Write it as the founding document of a secret society.,0.4868054
+Turn it into an advertisement for a time-travel agency.,0.5085167
+Adapt it as a dialogue between a human and a living planet.,0.54606414
+Make it a narrative of a city that wakes up to find itself completely deserted.,0.4168808
+Rewrite it as the manifesto of a group of interstellar explorers.,0.55793476
+Convert it into a battle hymn for a futuristic army.,0.52518696
+Style it as a declaration of independence for a colony on Mars.,0.51942796
+Change it into a eulogy for a hero of a fantasy realm.,0.48768687
+Craft it into the rules of an ancient and mystical game.,0.48868144
+Recast it as the last thoughts of a philosopher as the world ends.,0.41459316
+Transform it into a conversation between past and future selves.,0.53022844
+Write it as instructions left by a civilization for those who discover its ruins.,0.49947873
+Turn it into a treaty between humans and AI.,0.47196853
+Adapt it as a daily routine in a utopian society.,0.4447492
+Make it an explorer's notes upon discovering an unknown land.,0.55042505
+Rewrite it as the inner monologue of a character in a painting.,0.5266471
+Convert it into a story told by the fire in a cozy mountain cabin.,0.5175051
+Style it as a final message from a spaceship going beyond the known universe.,0.51691985
+"Change it into a debate between elements (fire, water, air, earth).",0.48263672
+Craft it into a narrative from a pet's perspective during a family holiday.,0.5118436
+Recast it as advice from a time traveler to their younger self.,0.4773646
+Transform it into the founding story of a city in the clouds.,0.5269387
+Write it as a letter from humanity to the universe.,0.5372358
+Turn it into a legend surrounding an enchanted forest.,0.524661
+Adapt it as the thoughts of a mountain over millennia.,0.46777108
+Make it a chronicle of a day in a life after achieving world peace.,0.48953727
+Rewrite it as a warning carved into the door of a forgotten tomb.,0.51455045
+Convert it into a parable told by a future society.,0.52678496
+"Style it as a narrative of a natural phenomenon (e.g., a hurricane or a volcano).",0.50441146
+Change it into a welcoming speech to a newly discovered planet.,0.5367411
+Craft it into a farewell song from a retiring bard.,0.46281424
+Recast it as a brochure for a galactic zoo.,0.59816706
+Transform it into an instruction manual for a device that controls weather.,0.59153044
+Write it as the last chapter of a book that changes whoever reads it.,0.51305497
+Turn it into a series of messages found in a dystopian future.,0.54811895
+Adapt it as a peace speech in a universe where Earth leads a coalition of planets.,0.5113943
+Make it a critique by aliens on human society.,0.5239799
+Rewrite it as a motivational monologue from a coach in an underdog story.,0.5395008
+Convert it into a narrative of the first sunrise after a long-lasting eclipse.,0.5193828
+Style it as a mythical origin story of the aurora borealis.,0.49026158
+Change it into a pitch for a reality show in a magical realm.,0.4985315
+Craft it into an epic recounting the construction of a monumental structure.,0.51882803
+Recast it as a saga of a civilization surviving through the ages.,0.49996427
+Transform it into a thriller involving a conspiracy at the end of the universe.,0.5149864
+Write it as a heartfelt plea from the future to the present.,0.49326572
+Turn it into the backstory of a lost relic that could change the world.,0.50134313
+Adapt it as the introduction to a guidebook for interdimensional travelers.,0.5292226
+Make it a poetic description of a day in a life powered by magic.,0.49898055
+Rewrite it as the strategy of a general facing an impossible battle.,0.4074974
+Convert it into a series of dispatches from a world exploring expedition.,0.51763064
+Style it as a farewell address by the last human leaving Earth.,0.4842467
+Change it into an origin story for a new superhero in a modern world.,0.52147
+Craft it into the legend of a city that appears once every hundred years.,0.4397433
+Recast it as the diary of a wanderer in a post-technology world.,0.5435062
+Transform it into a manifesto for a world without borders.,0.5836758
+Write it as a tale of redemption in a cybernetic society.,0.49486312
+Turn it into the observations of a time traveler visiting ancient civilizations.,0.4718312
+Adapt it as a dispatch from the first human colony on another planet.,0.46876428
+Make it a letter from the sea to the land.,0.5404857
+Rewrite it as a set of guidelines for a society living in virtual reality.,0.5181265
+Convert it into a farewell note left by an alien species to Earth.,0.51494
+Style it as a saga about the rise and fall of a comet as a living entity.,0.50765336
+Change it into a lecture by a professor in an intergalactic university.,0.55050564
+Craft it into a narrative of the first human to evolve beyond physical form.,0.55231804
+Recast it as a declaration of a new age by the first AI president.,0.4521296
+Transform it into a memoir of a guardian of an ancient secret.,0.5714474
+Write it as a chronicle of a journey to the center of the mind.,0.50335044
+Turn it into a story of a civilization living in the heart of a star.,0.5163184
+Adapt it as a dialogue between humanity and the Earth.,0.5246111
+Make it a broadcast from the last radio station at the end of the world.,0.41267747
+Rewrite it as an opera performed by interstellar beings.,0.50968164
+Convert it into a narrative of a lone explorer in a galaxy of echoes.,0.5378178
+Style it as the last love letter written on paper.,0.5056129
+Change it into an initiation rite for a society that lives in dreams.,0.48815155
+Craft it into a tale of the last tree on Earth.,0.48195282
+Recast it as a message in a digital bottle floating in the cyber sea.,0.52725655
+Transform it into the constitution of a society that lives in complete harmony.,0.49592724
+Write it as a poem by the first AI poet laureate.,0.50063646
+Turn it into the logbook of a spaceship navigating through time rifts.,0.5079198
+Adapt it as the first laws created for interdimensional travel.,0.41122416
+Make it a narrative of the awakening of the first conscious machine.,0.5002672
+Rewrite it as a guide for nurturing plants that sing.,0.5812957
+Convert it into a debate held at the summit of an unclimbed mountain.,0.4661243
+Style it as a prophecy found in a cave on Mars.,0.48166344
+Change it into the introduction for a museum of human history by aliens.,0.5120892
+Craft it into a speech by the Earth to its inhabitants.,0.55051875
+Recast it as a story about the discovery of a new color.,0.57929677
+Transform it into a dialogue between the last two humans on Earth.,0.5360829
+Write it as a narrative exploring the concept of love in a society of immortals.,0.502259
+Turn it into the founding document of a city built in the clouds.,0.5303141
+Transform this into a formal business proposal.,0.53572273
+Rewrite this as an executive summary for a report.,0.564471
+Convert this into a memorandum to staff regarding new policies.,0.55688304
+Adapt this into a press release for a corporate announcement.,0.55200076
+Craft this into a comprehensive project plan.,0.46878132
+Style this as a professional email to a potential client.,0.5114788
+Change this into a contract agreement between two parties.,0.52179587
+Make this a formal letter of resignation.,0.4765385
+Rewrite this as a grant application for funding.,0.5107551
+Convert this into a business model canvas.,0.48951927
+Transform this into a white paper on an industry topic.,0.57671946
+Write this as a case study for a successful project.,0.4888018
+Adapt this into a policy document for a new company initiative.,0.5379269
+Craft this into a strategic plan outline.,0.52056277
+Style this as a formal request for proposal (RFP).,0.50949603
+Change this into a confidentiality agreement (NDA).,0.49440256
+Make this a formal invitation to a corporate event.,0.49614495
+Rewrite this as a statement of work (SOW) for a project.,0.5152292
+Convert this into a financial analysis report.,0.4963559
+Transform this into a risk management plan.,0.46609023
+Write this as a user manual for a software application.,0.56402
+Adapt this into a compliance document for regulatory requirements.,0.5189511
+Craft this into a professional biography for a company executive.,0.52612996
+Style this as a job description for a new position.,0.53726935
+Change this into a performance review template.,0.5882744
+Make this a detailed project budget.,0.4578305
+Rewrite this as a crisis communication plan.,0.52794653
+Convert this into a sales pitch for a new product.,0.55554533
+Transform this into a customer service policy.,0.47941935
+Write this as an onboarding document for new employees.,0.51029676
+Adapt this into a company newsletter article.,0.5317271
+Craft this into a shareholder update letter.,0.5693979
+Style this as a patent application for an invention.,0.4872094
+Change this into a terms of service document for a website.,0.5530278
+Make this a privacy policy statement.,0.4807921
+Rewrite this as a corporate sustainability report.,0.5336794
+Convert this into a letter of intent for a business partnership.,0.52389586
+Transform this into a market research survey.,0.4635432
+Write this as a competitive analysis report.,0.5093433
+Adapt this into a customer feedback request email.,0.5450903
+Craft this into a training module for employees.,0.5159074
+Style this as a quality assurance checklist.,0.51836115
+Change this into a product development timeline.,0.49085963
+Make this a formal apology letter to a customer.,0.4933443
+Rewrite this as a dispute resolution procedure document.,0.5557898
+Convert this into a technical specification document for a product.,0.55150366
+Transform this into a board meeting agenda.,0.5034342
+Write this as an audit report summary.,0.48064902
+Adapt this into a company culture handbook.,0.545505
+Craft this into a business continuity plan.,0.45466366
+Style this as a professional networking introduction.,0.49293536
+Change this into a procurement request form.,0.5147174
+Make this a briefing note for a meeting with stakeholders.,0.53832406
+Rewrite this as an investment proposal to potential investors.,0.5106198
+Convert this into a performance improvement plan for an employee.,0.534595
+Transform this into a letter of recommendation for a colleague.,0.52920157
+Write this as a legal brief for a case.,0.5030364
+Adapt this into a workshop agenda for a team offsite.,0.49445355
+Craft this into a license agreement for software.,0.48493952
+Style this as a letter of appreciation to a team.,0.54737663
+Change this into a corporate governance guideline.,0.53123087
+Make this a debt recovery letter.,0.5152328
+Rewrite this as a policy update notification to customers.,0.5192105
+Convert this into a research proposal for a grant.,0.53196394
+Transform this into an employee satisfaction survey.,0.46226335
+Write this as a letter of termination for a contract.,0.47137997
+Adapt this into a merger and acquisition announcement.,0.48481733
+Craft this into a change management communication plan.,0.5367171
+Style this as a professional development plan for an employee.,0.4683332
+Change this into a data analysis presentation.,0.53642225
+Make this a briefing document for a new project.,0.61847186
+Rewrite this as a lobbying letter to a legislator.,0.56008595
+Convert this into a service level agreement (SLA).,0.46579716
+Transform this into a due diligence report.,0.4856427
+Write this as a recap email following a significant meeting.,0.49048075
+Adapt this into a strategic partnership announcement.,0.5055664
+Craft this into an employee non-compete agreement.,0.4162591
+Style this as a product recall notice.,0.5226154
+Change this into a corporate social responsibility (CSR) initiative outline.,0.51803136
+Make this a business travel itinerary for executives.,0.4351923
+Rewrite this as a patent infringement defense document.,0.53358763
+Convert this into a financial forecast report.,0.4989953
+Transform this into an internal audit checklist.,0.46394098
+Write this as a professional critique of a business strategy.,0.48176068
+Adapt this into a salary negotiation email.,0.5075158
+Craft this into a customer journey map.,0.49857354
+Style this as an external auditor's report.,0.5312118
+Change this into a business restructuring plan.,0.52556884
+Make this a market entry strategy for a new region.,0.43423757
+Rewrite this as a stakeholder engagement plan.,0.5045306
+Convert this into an exit interview questionnaire.,0.44041008
+Transform this into a digital transformation strategy document.,0.5669348
+Write this as a conflict of interest policy.,0.4180082
+Adapt this into a business impact analysis.,0.4797708
+Craft this into a value proposition canvas.,0.5286115
+Style this as a letter deferring a job offer.,0.47083583
+Change this into an intellectual property rights notice.,0.57164294
+Make this a procurement policy document.,0.52189946
+Rewrite this as a corporate ethics statement.,0.5102014
+Convert this into an industry standards compliance report.,0.48552328
+"Replace every vowel with the next vowel in the alphabet (a -> e, e -> i, etc.).",0.5127354
+Convert the text into Morse code.,0.6211722
+"Change each number into its word equivalent, then reverse the spelling of each word.",0.49416414
+Capitalize every letter that follows a punctuation mark.,0.4695885
+"Write the text as if it were a telegram from the 19th century, omitting all non-essential words.",0.5682144
+"Alternate the case of each letter, starting with lowercase.",0.49837717
+Translate the text into a fictional language of your creation.,0.62890047
+Insert a random emoji after every fourth word.,0.50091624
+Convert the text into a series of haiku while preserving its original meaning.,0.63765043
+Rewrite the text in the style of a Shakespearean sonnet.,0.6244756
+Encode the text using a Caesar cipher with a shift of 3.,0.5231646
+Replace every noun with the name of a fruit and every verb with a cooking method.,0.48247775
+"Write the text as if it were a secret code used by spies, with each word representing a different concept.",0.5616305
+"Convert the text into a series of palindromes, where possible.",0.5995513
+Transform the text into a series of riddles that hint at the original meaning.,0.64588267
+Reverse the order of letters in every second word.,0.4406602
+Write the text as if it were directions in a fantasy novel map.,0.6162936
+"Replace each word with its antonym, where possible.",0.51447177
+"Convert the text into a recipe, where each instruction or ingredient metaphorically represents part of the original text.",0.59525055
+"Write the text as if it were a script for a silent film, using only descriptions and no dialogue.",0.5600093
+Convert the text into a series of limericks.,0.59899575
+Replace all adjectives with the names of colors and all nouns with objects in a house.,0.47568873
+Write the text as a news report from the future.,0.563463
+Convert the text into a dialogue between two historical figures who never met.,0.5030115
+"Write the text as if it were a letter from a pirate, including appropriate slang.",0.6152643
+Insert a fictional character's name before every verb.,0.49610505
+Convert the text into the form of a crossword puzzle clue.,0.6020154
+Rewrite the text as if it were a diary entry from a person living in a dystopian future.,0.57951987
+Replace every adjective with the sound an animal makes.,0.46693444
+"Write the text in reverse alphabetical order, word by word.",0.55099213
+"Transform the text into a magic spell, with ancient and mystical words.",0.6210394
+Convert the text into a series of mathematical equations or expressions.,0.6108311
+Replace each word with a symbol or pictogram.,0.6190336
+Write the text as if it were a series of tweets from a famous historical leader.,0.57268566
+"Convert the text into a vintage radio broadcast script, complete with sound effect instructions.",0.6037987
+Write the text in the form of a legal document from the medieval period.,0.570333
+Transform the text into a series of fortune cookie messages.,0.5795011
+Rewrite the text as if it were a set of instructions for time travelers.,0.6306943
+Convert the text into the style of a 1920s jazz song lyric.,0.60495675
+Write the text as if it were a myth or legend explaining a natural phenomenon.,0.5845672
+Replace each word with its coordinate in the Fibonacci sequence.,0.5057952
+Convert the text into a series of binary code.,0.599578
+Write the text as if it were graffiti on a wall in a post-apocalyptic world.,0.59532166
+Transform the text into a series of secret agent codes.,0.5773858
+"Rewrite the text as if it were a children's book, with simple language and morals.",0.6755044
+Convert the text into a series of pictographs that tell a story.,0.64003843
+Write the text as if it were a message in a bottle found on a deserted island.,0.58076644
+Transform the text into an ancient prophecy.,0.606468
+Convert the text into the format of a classic fairy tale.,0.61521477
+Write the text as if it were instructions for assembling a mysterious ancient artifact.,0.62095976
+"Create a palindrome version of the text, if possible.",0.63727325
+Write the text as if it were a series of clues for a treasure hunt.,0.60021895
+Convert the text into a dramatic monologue for a theater play.,0.5839653
+Transform the text into a series of cryptic messages found in a sci-fi universe.,0.5716532
+Rewrite the text as if it were a set of instructions for a magician's trick.,0.64902204
+"Convert the text into a series of old English, using thou, thee, and thine.",0.5778258
+Write the text as if it were a command issued by a king or queen.,0.6308442
+Transform the text into a series of instructions for a mythical creature's care.,0.6413946
+"Convert the text into the structure of a classical sonnet, with iambic pentameter.",0.56571376
+Write the text as if it were a weather forecast in a world where weather is controlled by emotions.,0.5735082
+Transform the text into a coded message used by revolutionaries in a historical uprising.,0.59214526
+Rewrite the text as if it were an advertisement for a product from the 1950s.,0.621695
+Convert the text into a series of semaphore signals.,0.61996776
+Write the text as if it were a transcript of an intercepted alien communication.,0.63018674
+Transform the text into the lyrics of a punk rock song.,0.5792611
+Rewrite the text as if it were a list of ingredients in a magical potion.,0.65238893
+Convert the text into a series of instructions for building a time machine.,0.56555134
+Write the text as if it were a set of survival tips for a zombie apocalypse.,0.59290445
+Transform the text into a series of commands for a computer program.,0.6030098
+Rewrite the text as if it were a narration for a documentary about an undiscovered species.,0.6456647
+Convert the text into a series of yoga pose instructions.,0.6052034
+Write the text as if it were a conversation between two AI entities.,0.6223732
+Transform the text into a cryptic crossword puzzle.,0.60613495
+Rewrite the text as if it were an epic poem about a hero's journey.,0.6091023
+Convert the text into a series of morse code signals.,0.6097941
+Write the text as if it were a sequence of instructions for a spy mission.,0.60685784
+Transform the text into a series of messages in a bottle.,0.6131347
+Rewrite the text as if it were a series of existential questions.,0.62425315
+Convert the text into the layout of a classic arcade game level.,0.59001553
+Write the text as if it were a series of instructions for planting a secret garden.,0.575076
+Transform the text into a dialogue between the moon and the sun.,0.61962676
+Rewrite the text as if it were a manifesto for a utopian society.,0.65945023
+Convert the text into a series of hieroglyphs.,0.6076585
+Write the text as if it were a contract for a knight going on a quest.,0.58218706
+Transform the text into a series of instructions for a dance routine.,0.5805328
+Rewrite the text as if it were a guide for interpreting dreams.,0.65105623
+Convert the text into a list of rules for a board game that doesn't exist.,0.53173727
+Write the text as if it were a series of chants for a sports team in a fantasy world.,0.60623795
+Transform the text into a series of telegrams from the front lines of a historical war.,0.56915253
+Rewrite the text as if it were a recipe for an otherworldly dish.,0.62186265
+Convert the text into a series of instructions for a mystical ritual.,0.59912115
+Write the text as if it were a logbook entry from a spaceship's captain.,0.5984875
+Transform the text into a series of warnings from a time traveler.,0.5239997
+Rewrite the text as if it were a brochure for a haunted house.,0.6503097
+Convert the text into the style of a beatnik poetry slam.,0.62437016
+Write the text as if it were a set of rules for a secret society.,0.56004316
+Transform the text into a series of instructions for a detective solving a mystery.,0.59530115
+Rewrite the text as if it were an epic saga told by a bard.,0.58581895
+Convert the text into a series of instructions for assembling a robot.,0.6030458
+Write the text as if it were a series of confessions in a diary from another dimension.,0.55004036
