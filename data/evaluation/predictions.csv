@@ -1,0 +1,2 @@
+﻿id,original_text,rewrite_prompt,rewritten_text,pred,,,Notes
+0,i was beginning to feel quite disheartened,Summarize this.,The text you provide describes a feeling of disheartening beginning. It describes a feeling of despondency due to a lack of motivation or inspiration.,\n\nAnswer:\n\nStep 1/2\nThe specific rewrite prompt for this pair of text is to describe a feeling of disheartening beginning.\n\nStep 2/2\nThe text you provide describes a feeling of despondency due to a lack of motivation or inspiration.,,,Predicted with Gemma 2B
