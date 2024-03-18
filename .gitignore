@@ -11,3 +11,4 @@
 /.idea/llm-prompt-recovery.iml
 /.idea/.gitignore
 /data/wiki_movie_plots_deduped.csv
+.DS_Store
